@@ -19,7 +19,7 @@
 .nav-bar {
   width: 100%;
   height: 66px;
-  background-color: #002766;
+  background-color: #181818;
 }
 
 .logo-tab {
@@ -47,7 +47,7 @@
 /* Login Page */
 
 #login-page {
-  background-image: linear-gradient(#40a9ff, #096dd9);
+  background-image: linear-gradient(#0c1f2e, #010911);
   position: absolute;
   top: 0px;
   bottom: 0px;
@@ -85,7 +85,7 @@
 
 
 .google {
-  background-color: #4285f4;
+  background-color: black;
   color: white;
 }
 

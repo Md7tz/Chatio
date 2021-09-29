@@ -1,5 +1,7 @@
 # Chatio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5d819bf5-ed62-4663-97ed-dea6a4b383c6/deploy-status)](https://app.netlify.com/sites/chatio-reloaded/deploys)
+
 This project was built with React, Firestore authenication, Chat Engine.
 
 ## Available Scripts
